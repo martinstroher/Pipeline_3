@@ -1,537 +1,502 @@
 ﻿Readable_Term
-Reservoir
-Microbial Carbonate
-Coquina
-Source Rock
-Seal
-Trap
+Pre-Salt
 Rift Phase
 Sag Phase
-Pre-Salt
-Salt
-Post-Salt
+Microbial Carbonate
+Coquina
+Lacustrine System
+Salt Layer
+Reservoir Rock
+Source Rock
+Seal Rock
+Trap
 Porosity
 Permeability
 Dolomitization
 Dissolution
-Fault
-Lacustrine System
-Carbonate Platform
-Geobody
-Facies
-Diagenesis
-Extensional Tectonics
-Salt Tectonics
-Spherulite
-Shrub
-Boundstone
-Grainstone
-Rudstone
-Crystalline Carbonate
-Vuggy Porosity
-Moldic Porosity
-Fracture Porosity
 Cementation
-Horst
+Fault
 Graben
-Half-Graben
+Horst
 Aptian
 Barremian
-Lacustrine Shale
-Evaporite
-Halite
-Anhydrite
-Structural Trap
-Stratigraphic Trap
+Spherulite
+Shrub
+Carbonate Platform
 Migration Pathway
-Oil
-Gas
-Carbon Dioxide
-Thermal Maturity
-Acoustic Impedance
-Analog Reservoir
-Reservoir Characterization
-Reservoir Heterogeneity
-Stromatolite
-Thrombolite
-Laminite
-Travertine
-Calcite
-Dolomite
-Magnesite
-Serpentinite
-Igneous Rock
-Volcanic Rock
-Basement
-Unconformity
-Diapir
-Salt Weld
-Minibasin
-Turtle Structure
-Normal Fault
-Listric Fault
-Detachment Fault
-Transfer Zone
-High-Energy Facies
-Low-Energy Facies
-Carbonate Factory
-Saline Lake
-Alkaline Lake
-Hypersaline Lake
-Eogenetic Diagenesis
-Mesogenetic Diagenesis
-Telogenetic Diagenesis
-Recrystallization
-Neomorphism
-Compaction
-Interparticle Porosity
-Intraparticle Porosity
-Microporosity
-Wettability
-Capillary Pressure
-Saturation
-Kerogen
-Type I Kerogen
-Total Organic Carbon
-Hydrocarbon Generation
-Expulsion
-Accumulation
-Charge
-Top Seal
-Lateral Seal
-Seal Capacity
 Petroleum System
+Breakup Unconformity
+Hypersaline Lake
+Alkaline Lake
+Dolomite
+Grainstone
 Packstone
 Wackestone
 Mudstone
-Floatstone
-Fasicular Optic Calcite
-Radial Calcite
-Dendrolite
-Leiosphere
-Biofilm
-Microbial Mat
-Calcimicrobialite
-Organo-Mineralite
-Bioclast
-Intraclast
-Peloid
-Ooid
-Pisolite
-Oncoid
+Boundstone
 Breccia
-Conglomerate
-Sandstone
-Siltstone
-Claystone
-Marl
-Gneiss
-Granite
-Basalt
-Diabase
-Tuff
-Volcaniclastic Rock
-Pyroclastic Rock
-Ignimbrite
-Hyaloclastite
-Peperite
-Saddle Dolomite
-Planar Dolomite
-Baroque Dolomite
-Xenotopic Dolomite
-Idiotopic Dolomite
-Isopachous Cement
-Botryoidal Cement
-Syntaxial Overgrowth
-Poikilotopic Cement
-Blocky Cement
-Fibrous Cement
-Micritic Cement
-Calcitization
-Dedolomitization
-Silicification
-Pyritization
-Authigenic Clay
-Kaolinite
-Illite
-Smectite
-Chlorite
-Mechanical Compaction
-Chemical Compaction
-Pressure Solution
-Stylolite
-Dissolution Seam
-Microfracture
-Macrofracture
-Joint
-Karst
-Paleokarst
-Vadose Zone
-Phreatic Zone
-Meteoric Diagenesis
-Burial Diagenesis
-Hydrothermal Diagenesis
+Laminite
+Stromatolite
+Thrombolite
+Travertine
+Secondary Porosity
+Moldic Porosity
+Vuggy Porosity
 Intercrystalline Porosity
-Intracrystalline Porosity
-Fenestral Porosity
-Shelter Porosity
-Growth-Framework Porosity
-Channel Porosity
-Pore Throat
-Pore Body
-Connectivity
-Tortuosity
+Fracture Porosity
+Compaction
+Recrystallization
+Silicification
+Half-Graben
+Normal Fault
+Listric Fault
+Salt Tectonics
+Diapir
+Structural Closure
+Seismic Facies
+Acoustic Impedance
+Total Organic Carbon
+Kerogen Type
+Thermal Maturity
+Sequence Stratigraphy
+Sequence Boundary
+Systems Tract
+Maximum Flooding Surface
+Water Saturation
+Wettability
+Capillary Pressure
+Continental Rift
+South Atlantic Opening
+Passive Margin
+Hinge Line
 Fluvial System
 Alluvial Fan
 Delta
-Fan Delta
-Shoreface
-Beach
-Lagoon
-Tidal Flat
-Sabkha
-Deepwater System
-Turbidite
-Debris Flow
-Carbonate Ramp
-Carbonate Shelf
-Rimmed Shelf
-Isolated Platform
-Buildup
-Reef
-Shoal
-Bar
-Channel
-Levee
-Overbank Deposit
-Crevasse Splay
-Littoral Zone
-Sublittoral Zone
-Benthic
-Planktonic
-Anticline
-Syncline
-Monocline
-Fold
-Fold Hinge
-Fold Limb
-Fold Axis
-Fault Zone
-Fault Gouge
-Fault Breccia
-Relay Ramp
-Accommodation Zone
-Rollover Anticline
-Footwall
-Hanging Wall
-Fault Scarp
-Synthetic Fault
-Antithetic Fault
-Flower Structure
-Inversion Tectonics
-Uplift
-Subsidence
-Tilt Block
-Strike-Slip Fault
-Reverse Fault
-Thrust Fault
-Rift Valley
-Rift Shoulder
-Continental Rift
-Continental Breakup
-Seafloor Spreading
-Mantle Plume
-Hotspot
-Crustal Thinning
-Lithospheric Stretching
-Isostasy
-Flexure
-Volcanic Margin
-Non-Volcanic Margin
-Passive Margin
-Plate Tectonics
-Compressional Tectonics
-Strike-Slip Tectonics
-Salt Canopy
-Salt Stock
-Salt Nappe
-Salt Glacier
-Salt Feeder
-Salt Roller
-Salt Wall
-Salt Withdrawal Basin
-Roho System
-Counter-Regional Fault System
-Tachydrite
-Carnallite
-Sylvite
-Intra-formational Seal
-Seal Integrity
-Fault Seal
-Capillary Seal
-Hydrodynamic Trap
-Combination Trap
-Generation Pod
-Kitchen Area
+Charge
+Timing
+Generation
+Accumulation
+Critical Moment
+Type I Kerogen
+Anoxic Condition
+Black Shale
+Halite
+Anhydrite
+Evaporite
 Overburden
-Primary Migration
-Secondary Migration
-Vertical Migration
-Lateral Migration
-Migration Focus
-Biodegradation
-Water Washing
-Gas Chimney
-Fluid Inclusion
-Biomarker
-Isotope
-Geothermometer
-Geobarometer
-Vitrinite Reflectance
-Rock-Eval Pyrolysis
-Pyrolysis
-Apatite Fission Track
-Zircon Fission Track
-Condensate
-Hydrogen Sulfide
-Formation Water
-Brine
-Connate Water
-Meteoric Water
-Oil-Water Contact
-Gas-Oil Contact
-Gas-Water Contact
-Fluid Property
-Oil Viscosity
-Oil Density
-API Gravity
-Gas-Oil Ratio
-Bubble Point
-Dew Point
-Formation Volume Factor
-Solution Gas Drive
-Water Drive
-Gas Cap Drive
-Reservoir Pressure
-Reservoir Temperature
-Geothermal Gradient
-Overpressure
-Pore Pressure
-Hydrostatic Pressure
-Lithostatic Pressure
-Effective Stress
+Diagenesis
+Authigenesis
+Calcite Cement
+Dolomite Cement
+Silica Cement
+Authigenic Clay
+Saddle Dolomite
+Stylolite
+Fault Block
+Accommodation Zone
+Transfer Zone
+Growth Fault
+Rollover Anticline
+Inversion Tectonics
+Extensional Tectonics
+AVO Anomaly
+Direct Hydrocarbon Indicator
 Seismic Attribute
-Seismic Facies
-Seismic Inversion
-Seismic Stratigraphy
-Seismic Geomorphology
+Velocity
 Amplitude
 Frequency
-Phase
-Reflection
-Refraction
-Diffraction
-Velocity Model
-Anisotropy
-AVO
-P-Wave Velocity
-S-Wave Velocity
-Poisson's Ratio
-Young's Modulus
-Bulk Modulus
-Shear Modulus
-Lamé Parameter
-Brittleness
-Ductility
-Rock Strength
-Rock Compressibility
-Uniaxial Compressive Strength
-Triaxial Stress
-Grain Density
-Bulk Density
-Sequence Stratigraphy
-Highstand Systems Tract
-Lowstand Systems Tract
-Transgressive Systems Tract
-Maximum Flooding Surface
-Sequence Boundary
-Parasequence
-Stacking Pattern
-Progradation
-Retrogradation
-Aggradation
+Seismic Inversion
 Onlap
 Downlap
 Toplap
 Truncation
+Clinoform
+Progradation
+Retrogradation
+Aggradation
+Biomarker
+Vitrinite Reflectance
+Oil Window
+Gas Window
+Pyrolysis
+Isotope
+Carbon Isotope
+Oxygen Isotope
+Strontium Isotope
+Transgressive Systems Tract
+Highstand Systems Tract
+Lowstand Systems Tract
+Parasequence
+Base Level
 Eustasy
-Relative Sea Level
+Tectonic Subsidence
+Accommodation Space
+Stacking Pattern
+Bulk Density
+Grain Density
+Acoustic Velocity
+P-Wave Velocity
+S-Wave Velocity
+Resistivity
+Formation Factor
+Petrophysics
+Reservoir Fluid
+Oil Viscosity
+Gas-Oil Ratio
+API Gravity
+Salinity
+Bubble Point
+Reservoir Pressure
+Pore Pressure
+Overpressure
+Fluid Contact
+Oil-Water Contact
+Gas-Oil Contact
+Aquifer
+Cretaceous
+Early Cretaceous
+Neocomian
+Albian
+Chronostratigraphy
+Biostratigraphy
+Chemostratigraphy
+Rudstone
+Floatstone
+Framestone
+Bafflestone
+Bindstone
+Oolite
+Pisolite
+Oncoid
+Peloid
+Intraclast
+Bioclast
+Skeletal Grain
+Non-Skeletal Grain
+Conglomerate
+Sandstone
+Siltstone
+Shale
+Volcanic Rock
+Basement Rock
+Siliciclastic Rock
+Carbonate Rock
+Mixed Carbonate-Siliciclastic System
+Carbonate Ramp
+Carbonate Shelf
+Isolated Platform
+Rimmed Shelf
+Carbonate Buildup
+Reef
+Bioherm
+Biostrome
+Lagoon
+Sabkha
+Peritidal Environment
+Subtidal Environment
+Intertidal Environment
+Supratidal Environment
+Deepwater System
+Turbidite
+Debris Flow
+Eogenesis
+Mesogenesis
+Telogenesis
+Meteoric Diagenesis
+Burial Diagenesis
+Hydrothermal Alteration
+Primary Porosity
+Interparticle Porosity
+Intraparticle Porosity
+Fenestral Porosity
+Microporosity
+Macroporosity
+Effective Porosity
+Pore Throat
+Pore System
+Pore Geometry
+Neomorphism
+Calcitization
+Dedolomitization
+Isopachous Cement
+Syntaxial Overgrowth
+Poikilotopic Cement
+Blocky Cement
+Fibrous Cement
+Chemical Compaction
+Mechanical Compaction
+Anticline
+Syncline
+Dome
+Fold
+Fracture
+Joint
+Vein
+Detachment Fault
+Footwall
+Hanging Wall
+Salt Weld
+Salt Roller
+Salt Canopy
+Minibasin
+Turtle Structure
+Raft Tectonics
+Flat Spot
+Bright Spot
+Dim Spot
+Polarity Reversal
+Time-Depth Conversion
+Velocity Model
+Anisotropy
+Pre-Stack Depth Migration
+Source Rock Potential
+Hydrocarbon Generation
+Oil-Source Correlation
+Gas Chromatography
+Mass Spectrometry
+Saturated Hydrocarbon
+Aromatic Hydrocarbon
+Resin
+Asphaltene
+Pristane
+Phytane
+Hopane
+Sterane
+Rock Fabric
+Texture
+Grain Size
+Grain Shape
+Sorting
+Roundness
+Sphericity
+Relative Permeability
+Irreducible Water Saturation
+Elastic Modulus
+Young's Modulus
+Poisson's Ratio
+Rock Strength
+Geomechanics
+In-Situ Stress
+Vertical Stress
+Minimum Horizontal Stress
+Maximum Horizontal Stress
+Fracture Gradient
+Wellbore Stability
+Fault Reactivation
+Natural Fracture
+Drive Mechanism
+Water Drive
+Gas Cap Drive
+Solution Gas Drive
+Formation Volume Factor
 Well Log
+Core
+Cuttings
+Formation Test
+Wireline Log
 Gamma Ray Log
 Resistivity Log
 Density Log
 Neutron Log
 Sonic Log
-Caliper Log
 Image Log
-Dipmeter Log
-Spontaneous Potential Log
-Core
-Core Plug
-Cuttings
+Nuclear Magnetic Resonance Log
 Core Analysis
-Special Core Analysis
-Drill Stem Test
-Wireline Formation Test
-Formation Test
-Reservoir Model
-Geocellular Model
-Static Model
-Dynamic Model
-Geocellular Grid
-Corner Point Grid
-Facies Model
-Petrophysical Model
-Structural Model
-Property Modeling
-Variogram
-Kriging
+Thin Section
+Scanning Electron Microscope
+X-Ray Diffraction
+Cathodoluminescence
+Fluid Inclusion
+Outcrop Analog
 Reservoir Simulation
 Basin Modeling
-Upscaling
-Downscaling
-Uncertainty Analysis
-Risk Assessment
-Play
-Prospect
-Lead
-Discovery
-Field
-Basin
+Petrography
 Sedimentology
 Stratigraphy
 Structural Geology
-Tectonics
-Geochemistry
-Petrology
-Petrophysics
-Geophysics
-Geomechanics
-Basin Analysis
-Paleogeography
-Paleoclimatology
-Paleontology
-Ichnology
-Cretaceous
-Mesozoic
+Geologic Model
+Unconformity
+Angular Unconformity
+Disconformity
+Nonconformity
+Paraconformity
+Hiatus
+Lithology
+Lithofacies
+Biofacies
+Tectofacies
+Calcite
+Aragonite
+Ankerite
+Magnesite
+Siderite
+Quartz
+Feldspar
+Plagioclase
+K-Feldspar
+Clay Mineral
+Kaolinite
+Illite
+Smectite
+Chlorite
+Pyrite
+Gypsum
+Barite
+Sepiolite
+Stevensite
+Zeolite
+Silicate
+Carbonate
+Sulfate
+Halide
+Sulfide
+Oxide
+Fossil
+Microfossil
+Ostracod
+Foraminifera
+Calcareous Algae
+Cyanobacteria
+Coccolithophore
+Nannofossil
+Pollen
+Spore
+Dinoflagellate
+Gastropod
+Bivalve
+Trace Fossil
+Bioturbation
+Paleoecology
+Paleobathymetry
+Crustal Thinning
+Lithospheric Stretching
+Mantle Plume
+Sag Basin
+Volcanic Margin
+Non-Volcanic Margin
+Preservation
+Expulsion
+Underburden
+Dendrolite
+Leiosphere
+Igneous Intrusion
+Metamorphic Rock
+Fan Delta
+Braided River
+Meandering River
+Lacustrine Delta
+Shoreline
+Playa Lake
+Eolian System
+Aggrading Neomorphism
+Grain Coating
+Radiaxial Cement
+Dissolution Seam
+Vadose Zone
+Phreatic Zone
+Marine Phreatic Zone
+Meteoric Phreatic Zone
+Burial Realm
+Fluid-Rock Interaction
+Water Washing
+Biodegradation
+Reverse Fault
+Strike-Slip Fault
+Synthetic Fault
+Antithetic Fault
+Fault System
+Fault Zone
+Fault Scarp
+Fault-Bend Fold
+Fault-Propagation Fold
+Compressional Tectonics
+Transtensional Tectonics
+Transpressional Tectonics
+Brittle Deformation
+Ductile Deformation
+Shear Zone
+Relay Ramp
+Seismic Reflection
+Seismic Resolution
+Vertical Resolution
+Horizontal Resolution
+Full Waveform Inversion
+4D Seismic
+Controlled Source Electromagnetics
+Maturation Index
+Time Temperature Index
+Isotopic Fractionation
+Geothermal Gradient
+Heat Flow
+Falling Stage Systems Tract
+Transgressive Surface
+Regressive Surface
+Flooding Surface
+Genetic Stratigraphic Sequence
+Depositional Sequence
+Saturation Exponent
+Cementation Exponent
+Archie's Law
+Tortuosity
+Formation Damage
+Dew Point
+Hydrostatic Pressure
+Lithostatic Pressure
+Free Water Level
+Compaction Drive
+Late Cretaceous
+Cenomanian
 Cenozoic
-Neocomian
-Hauterivian
-Valanginian
-Berriasian
-Jurassic
-Triassic
+Paleogene
+Neogene
+Mesozoic
 Paleozoic
-Proterozoic
-Precambrian
-Depocenter
-Sediment Source
-Sediment Transport
-Deposition
-Erosion
-Weathering
-Lithification
-Petrogenesis
-Texture
-Fabric
-Sorting
-Rounding
-Grain Size
-Matrix
-Framework
-Bedding
-Lamination
+Geologic Time Scale
+Magnetostratigraphy
+Biozone
+Index Fossil
+Clotted Fabric
+Peloidal Fabric
+Fenestral Fabric
+Laminated Fabric
+Massive Fabric
+Graded Bedding
 Cross-Bedding
 Ripple Mark
 Mud Crack
-Bioturbation
-Stromatoporoid
-Foraminifera
-Ostracod
-Gastropod
-Bivalve
-Algae
-Cyanobacteria
-Fossil
-Microfossil
-Macrofossil
-Trace Fossil
-Tectonic Subsidence
-Thermal Subsidence
-Rift Initiation
-Rift Climax
-Post-Rift Subsidence
-Magmatism
-Volcanism
-Intrusion
-Extrusion
-Dike
-Sill
-Lava Flow
-Ash Fall
-Hydrothermal Vent
-Metamorphism
-Contact Metamorphism
-Regional Metamorphism
-Hydrothermal Alteration
-Spilitization
-Chloritization
-Epidotization
-Sericitization
-Zeolitization
-Geochronology
-Radiometric Dating
-Chemostratigraphy
-Magnetostratigraphy
-Biostratigraphy
-Chronostratigraphy
-Lithostratigraphy
-Formation
-Member
-Group
-Supergroup
-Depositional Sequence
-Genetic Unit
-Pay Zone
-Net Pay
-Net-To-Gross Ratio
-Cutoff
-Flow Unit
-Baffle
-Barrier
-Conduit
-Compartmentalization
-Original Oil In Place
-Original Gas In Place
-Recovery Factor
-Reserve
-Resource
-Economic Basement
-Acoustic Basement
-Magnetic Basement
-Gravity Anomaly
-Magnetic Anomaly
-Heat Flow
-Well Correlation
-Cross Section
-Geologic Map
-Structure Map
-Isopach Map
-Isochore Map
-Facies Map
-Paleogeographic Map
-Ontology
-Knowledge Graph
-Semantic Model
-Conceptual Model
-Data Integration
+Tepee Structure
+Hardground
+Discontinuity Surface
+Erosional Surface
+Apatite
+Mica
+Muscovite
+Biotite
+Amphibole
+Pyroxene
+Olivine
+Garnet
+Heavy Mineral
+Phosphate
+Ichnofossil
+Coral
+Bryozoan
+Echinoderm
+Ammonite
+Induced Fracture
+Hydraulic Fracturing
+Tectonic Stress
+Sand Production
+Subsidence
+Rock Mechanics
+Stress Field
+Logging While Drilling
+Caliper Log
+Spontaneous Potential Log
+Geochemical Log
+X-Ray Fluorescence
+Numerical Model
+Geostatistical Model
+Palynology
+Petrology
+Stratigraphic Column
